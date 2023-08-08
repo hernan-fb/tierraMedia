@@ -1,0 +1,32 @@
+
+Resumen del Carrito del Usuario: pepe.
+	Tipo de Perfil: FRODO
+	Presupuesto [monedas]: 0.0
+	Tiempo Disponible Inicial [h]: 8.0
+	Tipo de Excursion Preferida: AVENTURA
+	Listado de Excursiones contratadas: 
+	Cod.  Nombre de Itinerario        Tipo Excursion  Costo      Duración  Cupo   
+	1     Moria                       AVENTURA        10.00        2.00       5
+
+	Total del usuario . . . . . . . . . . .           10.00        2.00
+
+
+Resumen del Carrito del Usuario: pepe.
+	Tipo de Perfil: PERSONALIZADO
+	Presupuesto [monedas]: 85.99
+	Tiempo Disponible Inicial [h]: 12.0
+	Tipo de Excursion Preferida: AVENTURA
+	Listado de Excursiones contratadas: 
+	Cod.  Nombre de Itinerario        Tipo Excursion  Costo      Duración  Cupo   
+	106   Por_La_Ma�ana               AVENTURA        12.00        4.50       5
+		  Esta promoción incluye las excursiones: 
+		  Nombre                      Tipo Excur.     Duración
+		  Moria                       AVENTURA        2.00     
+		  Minas Tirith                PAISAJE         2.50     
+
+	107   La_Comarca_Ultimas_Plazas   DEGUSTACION     2.01         6.50     149
+		  Esta promoción incluye las excursiones: 
+		  Nombre                      Tipo Excur.     Duración
+		  La Comarca                  DEGUSTACION     6.50     
+	Total del usuario . . . . . . . . . . .           14.01       11.00
+

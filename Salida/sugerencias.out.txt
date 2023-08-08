@@ -1,0 +1,2 @@
+Atraccion [nombre=Moria, costo=10.0, cupo=6, tiempo=2.0, tipo=Aventura]
+Atraccion [nombre=Bosque Negro, costo=3.0, cupo=12, tiempo=4.0, tipo=Aventura]

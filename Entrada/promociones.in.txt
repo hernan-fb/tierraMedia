@@ -1,0 +1,8 @@
+Pack_Aventura Aventura 7,4 PP 20
+Pack_Degustacion Degustacion 6,3 PA 36
+Pack_Paisajes Paisaje 2,5,7 PAB 3
+Aventura_Full Aventura 1,4,8 PA 35
+Dia_Completo Paisaje 2,3,4,5 PAB 6
+Por_La_Mañana Aventura 1,2 PP 20
+La_Comarca_Ultimas_Plazas Degustacion 3 PP 33
+Combo_Tercera_Edad Paisaje 5,6,7 PAB 3
